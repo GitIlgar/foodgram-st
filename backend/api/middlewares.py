@@ -1,5 +1,4 @@
 from django.http import JsonResponse
-from django.core.exceptions import ObjectDoesNotExist
 
 
 class Custom404Middleware:
